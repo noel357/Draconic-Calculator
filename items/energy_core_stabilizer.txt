@@ -1,3 +1,0 @@
-{
-	"crafting": ["particle_generator", "diamond", "diamond", "diamond", "diamond"]
-}

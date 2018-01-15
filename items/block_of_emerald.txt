@@ -1,3 +1,0 @@
-{
-	"crafting": ["emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald"]
-}

@@ -36,6 +36,7 @@ draconic_shovel
 draconic_staff_of_power
 draconic_sword
 draconium_block
+dragon_heart
 end_crystal
 energy_core
 energy_core_stabilizer

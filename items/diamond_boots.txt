@@ -1,9 +1,0 @@
-{
-	"name": "Diamond Boots",
-"crafting":[
-"diamond",
-"diamond",
-"diamond",
-"diamond"
-]
-}

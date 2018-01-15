@@ -1,3 +1,0 @@
-{
-	"crafting": ["draconium_ingot", "draconic_core", "draconium_ingot", "draconic_core", "nether_star", "draconic_core", "draconium_ingot", "draconic_core", "draconium_ingot"]
-}

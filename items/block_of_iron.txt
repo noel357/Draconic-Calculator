@@ -1,3 +1,0 @@
-{
-	"crafting": ["iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot", "iron_ingot"]
-}

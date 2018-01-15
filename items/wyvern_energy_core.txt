@@ -1,3 +1,0 @@
-{
-	"crafting": ["draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "block_of_redstone", "block_of_redstone", "block_of_redstone", "block_of_redstone", "draconic_core"]
-}

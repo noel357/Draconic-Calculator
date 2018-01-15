@@ -1,4 +1,0 @@
-{
-	"name": "Diamond Axe",
-	"crafting": ["diamond", "diamond", "diamond", "stick", "stick"]
-}
