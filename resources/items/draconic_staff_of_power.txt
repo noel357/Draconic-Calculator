@@ -1,0 +1,3 @@
+{
+	"crafting": ["draconic_sword", "draconic_shovel", "draconic_pickaxe", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_draconium_ingot", "awakened_core"]
+}

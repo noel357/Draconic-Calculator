@@ -1,0 +1,4 @@
+{
+	"count": 16,
+	"crafting": ["glass", "glass", "glass", "glass", "glass", "glass"]
+}

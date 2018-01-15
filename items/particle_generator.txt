@@ -1,0 +1,3 @@
+{
+	"crafting": ["block_of_redstone", "block_of_redstone", "block_of_redstone", "block_of_redstone", "draconic_core", "blaze_rod", "blaze_rod", "blaze_rod", "blaze_rod"]
+}

@@ -1,0 +1,3 @@
+{
+	"crafting": ["ender_pearl", "blaze_powder"]
+}

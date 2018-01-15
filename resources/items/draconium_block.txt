@@ -1,0 +1,3 @@
+{
+	"crafting": ["draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot", "draconium_ingot" ]
+}

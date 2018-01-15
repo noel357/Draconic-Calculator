@@ -1,0 +1,3 @@
+{
+	"crafting": ["ghast_tear", "nether_star", "glass_pane", "glass_pane", "glass_pane", "glass_pane", "glass_pane", "glass_pane", "glass_pane" ]
+}

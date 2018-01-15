@@ -1,0 +1,4 @@
+{
+	"name": "Diamond Chestplate",
+	"crafting": ["diamond", "diamond", "diamond", "diamond", "diamond", "diamond", "diamond", "diamond"]
+}
