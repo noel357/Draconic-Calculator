@@ -1,3 +1,4 @@
 {
+	"disabled": true,
 	"crafting": ["string", "string", "string", "stick", "stick", "stick"]
 }

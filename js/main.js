@@ -25,7 +25,11 @@ itemsRequest.send()
 function loadHTML() {
 	$("#itemtoadd").empty()
 	for (var i = 0; i < allItemsArray.length; i++) {
-		$("#itemtoadd").append("<option value=\""+allItemsArray[i].id+"\">" + allItemsArray[i].name + "</option>")
+		if (!('disabled' in allItemsArray[i])){
+			$("#itemtoadd").append("<option value=\""+allItemsArray[i].id+"\">" + allItemsArray[i].name + "</option>")
+		} else {
+			console.log(allItemsArray[i].name+" disabled. Not loading")
+		}
 	}
 }
 
@@ -50,9 +54,9 @@ function loadJSON(itemname) {
 	itemRequest.send()
 }
 
-function getItemFromId(id){
+function getItemFromId(index){
 	for(var i=0;i<allItemsArray.length;i++){
-		if(allItemsArray[i].id == id)
+		if(allItemsArray[i].id == index)
 			return allItemsArray[i]
 	}
 	return null

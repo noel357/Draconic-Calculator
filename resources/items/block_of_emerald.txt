@@ -1,3 +1,4 @@
 {
+	"disabled": true,
 	"crafting": ["emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald", "emerald"]
 }
