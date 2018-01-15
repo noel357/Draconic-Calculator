@@ -1,4 +1,0 @@
-{
-	"name": "Diamond Helmet",
-	"crafting": ["diamond", "diamond", "diamond", "diamond", "diamond"]
-}

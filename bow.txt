@@ -1,3 +1,0 @@
-{
-	"crafting": ["string", "string", "string", "stick", "stick", "stick"]
-}

@@ -1,3 +1,0 @@
-{
-	"crafting": ["apple", "gold_ingot", "gold_ingot", "gold_ingot", "gold_ingot", "gold_ingot", "gold_ingot", "gold_ingot", "gold_ingot"]
-}

@@ -1,3 +1,0 @@
-{
-	"crafting": ["redstone", "redstone", "redstone", "redstone", "redstone", "redstone", "redstone", "redstone", "redstone"]
-}
